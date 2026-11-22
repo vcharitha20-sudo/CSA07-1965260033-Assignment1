@@ -1,0 +1,6 @@
+Generated automated test run, not student execution evidence.
+flipped [] -> no error data intact: True
+flipped [(1, 2)] -> ('corrected', 1, 2) data intact: True
+flipped [(0, 0), (2, 3)] -> uncorrectable data intact: False
+flipped [(0, 0), (0, 1)] -> uncorrectable data intact: False
+flipped [(4, 2)] -> ('corrected', 4, 2) data intact: True
