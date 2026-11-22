@@ -1,0 +1,6 @@
+Generated automated test run, not student execution evidence.
+Floor to data hall, single-mode: loss 2.45 dB margin 16.55 dB OK
+Floor to data hall, multimode: loss 4.30 dB margin 5.20 dB OK
+Between buildings, single-mode: loss 6.10 dB margin 12.90 dB OK
+Long haul, single-mode: loss 17.00 dB margin 2.00 dB FAIL
+Maximum km with 4 connectors, 6 splices: 38.28571428571429

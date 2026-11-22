@@ -1,0 +1,9 @@
+Illustrative output generated in preparation environment; rerun yourself and capture evidence.
+Traceback (most recent call last):
+  File "/mnt/data/csa07_work/CSA07-1965260033-Assignment1/Task04/task.py", line 7, in <module>
+    loss=total_loss(km,att,con,spl);m=margin(tx,rx,loss)
+                                      ~~~~~~^^^^^^^^^^^^
+  File "/mnt/data/csa07_work/CSA07-1965260033-Assignment1/Task04/task.py", line 4, in margin
+    return tx_dbm-loss_db-rx_sensitivity_db
+                          ^^^^^^^^^^^^^^^^^
+NameError: name 'rx_sensitivity_db' is not defined. Did you mean: 'rx_sensitivity_dbm'?
