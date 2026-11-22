@@ -1,0 +1,5 @@
+Generated automated test run, not student execution evidence.
+parsed: ('00:1d:9c:c7:b0:41', '3c:52:82:4e:11:07', '0x800', 64, True) overhead: 48 percentage: 75.0
+1 bit flipped: FCS ok = False
+parsed: ('00:1d:9c:c7:b0:41', '3c:52:82:4e:11:07', '0x800', 1418, True) overhead: 18 percentage: 1.27
+1 bit flipped: FCS ok = False
