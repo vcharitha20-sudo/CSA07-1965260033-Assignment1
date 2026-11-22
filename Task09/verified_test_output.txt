@@ -1,0 +1,6 @@
+Generated automated test run, not student execution evidence.
+data 0110111110110 sent 01101111100110 extra bits 1 restored True
+data 01111110 sent 011111010 extra bits 1 restored True
+data 1111111111 sent 111110111110 extra bits 2 restored True
+data 1010101 sent 1010101 extra bits 0 restored True
+data 00110011 sent 00110011 extra bits 0 restored True
