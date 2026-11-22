@@ -1,0 +1,10 @@
+Generated automated test run, not student execution evidence.
+checksum : 1E64
+no error : True
+1 word changed : False
+2 words swapped: True
+1 0 1 1 1
+0 1 0 0 1
+1 1 1 0 1
+0 0 1 1 0
+0 0 1 0 1
